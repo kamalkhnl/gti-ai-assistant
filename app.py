@@ -1,7 +1,6 @@
 from openai import OpenAI
 import time
 import streamlit as st
-import constants
 
 
 def main():
